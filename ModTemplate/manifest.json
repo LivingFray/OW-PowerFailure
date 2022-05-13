@@ -1,8 +1,8 @@
 {
   "filename": "ModTemplate.dll",
-  "author": "Raicuparta",
-  "name": "Mod Template",
-  "uniqueName": "Raicuparta.ModTemplate",
-  "version": "0.1.0",
-  "owmlVersion": "2.3.2"
+  "author": "LivingFray",
+  "name": "Power Failure",
+  "uniqueName": "LivingFray.PowerFailure",
+  "version": "1.0.0",
+  "owmlVersion": "2.3.3"
 }
